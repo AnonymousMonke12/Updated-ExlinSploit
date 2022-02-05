@@ -1,4 +1,0 @@
--- This Script isn't mine credits to the owner.
--- Works on krnl,Synapse,Sirhurt And other.
-
-loadstring(game:HttpGet("https://pastebin.com/raw/mHfK0Xk4", true))()
